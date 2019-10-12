@@ -1,3 +1,3 @@
 # NEOM FLIGHTS
 
-## Flights to NEOM Html
+## Flights to NEOM HTML
